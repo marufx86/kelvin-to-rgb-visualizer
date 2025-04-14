@@ -19,6 +19,11 @@ I used the following image as a reference for the color temperature scale:
 ![color-temperature-scale-interior-lights-260nw-2247132123](https://github.com/user-attachments/assets/71b634b8-ff8d-4370-b3a0-2a09499fafbb)
 
 
+You can use this reference for your interior lighting
+
+![image](https://github.com/user-attachments/assets/6847dc18-44ed-4f4e-a379-51b16b6a5b73)
+
+
 
 
 **In App Screenshots:**
